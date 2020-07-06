@@ -1,0 +1,4 @@
+Here we use given machine learning algorithms
+1. Linear Regression
+2. Decision Tree Classifier
+3. Random Forest 
