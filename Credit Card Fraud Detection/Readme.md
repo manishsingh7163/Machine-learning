@@ -1,3 +1,9 @@
+Data Download
+-------------
+The csv file can be downloaded from https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+
+
 About
 =====
 I am sick and tired of all the confirmation messages that I receive regarding my credit card been used, requesting to respond if it was not me. And not just credit card,
